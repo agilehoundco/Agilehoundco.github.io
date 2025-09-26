@@ -13,8 +13,8 @@ Orginally from Ireland, US Citizen since 2001. Light hearted personality yet ser
 ### Focus Areas
 
 ##  What I Do
-- Agile transformation & enterprise coaching (Scrum, Kanban, SAFe)
-- Security & cloud program delivery 
+- Agile transformation & Division/Department coaching (Scrum, Kanban, familiar with SAFe)
+- Product and program delivery 
 - Stakeholder alignment, roadmapping, and change enablement
 - Metrics-driven planning, risk management, and continuous improvement
 
