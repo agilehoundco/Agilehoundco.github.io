@@ -2,7 +2,7 @@
 
 Hello, I am Mari (Marie-Louise), I’m an Agile Project Manager, Scrum Master, and Agile Coach with 10+ years leading enterprise transformations across cloud, cybersecurity, healthcare, life sciences, and insurance. I turn complex programs into predictable delivery—removing impediments, coaching collaboration, and building resilient, high-performing teams.
 
-I’ve partnered with SIEM, network security, and cloud security groups and worked with vendors like Accenture and Wiz to deliver initiatives at scale. My sweet spot is bridging Agile leadership with security & cloud programs.
+Most recently I worked in a Cybersecurity Division, and was Coach/Scrum Master for network/cloud security teams, other deparments under the CISO and worked with vendors like Accenture and Wiz to deliver initiatives at scale. My sweet spot is bridging Agile leadership with security & cloud programs.
 
 Recognized as a self-motivated servant leader, with strong Emotional Intelligence, Communication Skills, Time Management, and Interpersonal Skills, adept at guiding organizations and cross-functional software teams through Agile adoption and maturity using Scrum, Kanban, XP, and SAFe frameworks, with a proven ability to transition teams from Waterfall or ad hoc practices to predictable, efficient delivery
 
@@ -33,9 +33,9 @@ Orginally from Ireland, US Citizen since 2001. Light hearted personality yet ser
 
 ###  Non-Profit  
 **Key Achievements:**  
--   Founder Animal Welfare Coalition
--   https://www.vcawc.com/
--   Voulenteer of the year 2024 - Valley Center Center District (Part of San Diego County, Caliornia)
+-   Founder Animal Welfare Coalition https://www.vcawc.com/
+-   Volunteer of the year 2024 - Valley Center Center District (Part of San Diego County, Caliornia)
+-   Community Emergency Response Team (CERT) – Volunteer 
 
 ###  Higher Education  
 - Post Graduate, Software Engineering, Univesity College Cork Ireland
