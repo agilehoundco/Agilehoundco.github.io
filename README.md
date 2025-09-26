@@ -2,7 +2,7 @@
 
 Hello, I am Mari (Marie-Louise), I’m an Agile Project Manager, Scrum Master, and Agile Coach with 10+ years leading enterprise transformations across cloud, cybersecurity, healthcare, life sciences, and insurance. I turn complex programs into predictable delivery—removing impediments, coaching collaboration, and building resilient, high-performing teams.
 
-Most recently I worked in a Cybersecurity Division, and was Coach/Scrum Master for network/cloud security teams, other deparments under the CISO and worked with vendors like Accenture and Wiz to deliver initiatives at scale. My sweet spot is bridging Agile leadership with security & cloud programs.
+Most recently I worked in a Cybersecurity Division, for a large US company, and was the Coach/Scrum Master for network/cloud security teams, other deparments under the CISO and worked with vendors like Accenture and Wiz to deliver initiatives at scale. My sweet spot is bridging Agile concepts with security & cloud programs.
 
 Recognized as a self-motivated servant leader, with strong Emotional Intelligence, Communication Skills, Time Management, and Interpersonal Skills, adept at guiding organizations and cross-functional software teams through Agile adoption and maturity using Scrum, Kanban, XP, and SAFe frameworks, with a proven ability to transition teams from Waterfall or ad hoc practices to predictable, efficient delivery
 
@@ -25,7 +25,7 @@ Orginally from Ireland, US Citizen since 2001. Light hearted personality yet ser
 
 ###  Professionally  
 
-- Currently looking for that next role, where I will add value to teams, product, leadership and the Company
+- Unfortunaly, I was impacted in June 2025 due to a Company restructuring, (my 7th Mass Layoff in my career) and looking for that next position, where I will add value to teams, product, leadership and the Company
 - Looking for roles with companies that are more secure in times of economic unstability
 - Preference a role within a CyberSecurity, Cloud, Generative AI division/deparment/team
   
