@@ -77,10 +77,12 @@ Orginally from Ireland, US Citizen since 2001. Light hearted personality yet ser
 **Business and EQ**
 - Interviewing, Vendor Management, Onboarding/Offboarding (Employees/Consultants), Detail-oriented planning, Servant Leadership, Customer-centric, Self-Motivated Leadership with a strong Work ethic, Empathetic, Outgoing, Well-organized, Time Management, Interpersonal Communication, Conflict Resolution, Stakeholder Management, Critical Thinking, decision-making, Problem-solving, Active Listening, Requirements Gathering, ATDD, BDD, Quality Assurance, Business Analysis
 
-⬇️ Download Mari’s Info Collector (.bat file)](MarisBatFIle.bat)
+
 ---
 
 ##  My Projects
 
 Upskilling on all things CyberSecuity, AI and the Cloud
 DevOps, DevSecOps, CI/CD implementaton
+
+⬇️ Download Mari’s Info Collector (.bat file)](MarisBatFIle.bat)
